@@ -1,16 +1,6 @@
-# calculator
+# Love Calculator
 
-A new Flutter project.
+An app created to calculate love between two people.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen 1](https://github.com/AmrendraOG/love_calculator/assets/125346970/0fa1fb7d-4a26-402a-a76c-eeb11cef9d34)
+![Screen 2](https://github.com/AmrendraOG/love_calculator/assets/125346970/523ddb8e-635e-49c8-a4ab-faa7df28d169)
